@@ -15,3 +15,4 @@ then
 else
  echo No is not a pallindrome
 fi
+echo "Finished"
